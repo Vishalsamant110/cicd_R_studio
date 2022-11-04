@@ -1,5 +1,5 @@
 ---
-title: "CI/CD Workshop for R Packages"
+title: "Intro to CI/CD Workshop for R Packages"
 subtitle: |
   R/Pharma
 
